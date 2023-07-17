@@ -8,7 +8,7 @@ function App() {
     <div>
       <header>TS Amazon</header>
       <main></main>
-      <footer>All right reserved</footer>
+      <footer>All right reserved hello</footer>
     </div>
   );
 }
